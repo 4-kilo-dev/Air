@@ -62,11 +62,11 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: true,
     hasWaterReserve: true,
     amenities: ["Fiber Internet (100Mbps)", "Automatic Backup Generator", "Water Reservoir (5,000L)", "Private Balcony", "Smart TV + Netflix", "Washer/Dryer", "24/7 Security Guard", "Dedicated Workspace"],
-    imageUrl: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/bole_penthouse.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+      "/images/bole_penthouse.jpg",
+      "/images/kazanchis_suite.jpg",
+      "/images/old_airport_villa.jpg",
     ],
     host: {
       name: "Tewodros & Selam",
@@ -95,10 +95,10 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: true,
     hasWaterReserve: true,
     amenities: ["Dedicated High-Speed WiFi", "Soundproof Windows", "Elevator Power Backup", "Gym Access", "Airport Pickup Included", "Full Chef's Kitchen", "Keyless Smart Lock"],
-    imageUrl: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/kazanchis_suite.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=800&q=80",
+      "/images/kazanchis_suite.jpg",
+      "/images/bole_penthouse.jpg",
     ],
     host: {
       name: "Addis Premier Hosts",
@@ -127,10 +127,10 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: true,
     hasWaterReserve: true,
     amenities: ["Private Garden & Patio", "Heavy Duty Generator", "Dedicated Chef on Demand", "Gated Security Guardhouse", "BBQ Grill", "Fireplace", "High Capacity Solar Heater"],
-    imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/old_airport_villa.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80",
+      "/images/old_airport_villa.jpg",
+      "/images/kazanchis_suite.jpg",
     ],
     host: {
       name: "Bethlehem Assefa",
@@ -159,9 +159,9 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: true,
     hasWaterReserve: true,
     amenities: ["Walking Distance to AU", "Modern Kitchen", "Balcony View", "Smart TV", "Underground Parking", "Continuous Water & Power"],
-    imageUrl: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/kazanchis_suite.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+      "/images/kazanchis_suite.jpg",
     ],
     host: {
       name: "Dawit Kebede",
@@ -190,9 +190,9 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: true,
     hasWaterReserve: true,
     amenities: ["Panoramic Mountain Views", "Fitness Center Access", "Children's Playground", "Quiet Neighborhood", "Full Security"],
-    imageUrl: "https://images.unsplash.com/photo-1502005229762-ee1b2b93e00f?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/bole_penthouse.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1502005229762-ee1b2b93e00f?auto=format&fit=crop&w=800&q=80",
+      "/images/bole_penthouse.jpg",
     ],
     host: {
       name: "Addis Premier Hosts",
@@ -221,9 +221,9 @@ export const INITIAL_PROPERTIES: PropertyItem[] = [
     hasGenerator: false,
     hasWaterReserve: true,
     amenities: ["Historic Architecture", "High Ceilings", "Artisan Ethiopian Decor", "Walking Distance to Cafes & Museums", "High-speed Wi-Fi"],
-    imageUrl: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "/images/old_airport_villa.jpg",
     galleryUrls: [
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=80",
+      "/images/old_airport_villa.jpg",
     ],
     host: {
       name: "Hanna Mengistu",
